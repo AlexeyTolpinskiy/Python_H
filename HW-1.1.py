@@ -9,4 +9,4 @@ hours = seconds // 3600
 ostatok = seconds % 3600
 minutes = ostatok // 60
 sec = ostatok % 60
-print("Ваше время {}:{}:{} ".format(hours, minutes, sec))
+print(f"Ваше время {hours:02}:{minutes:02}:{sec:02} ")
