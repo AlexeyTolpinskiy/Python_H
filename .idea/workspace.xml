@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f3b2f81-c969-43be-b6e4-2e00b6db5bfb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/HW_2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW_2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_2.5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,35 +15,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HW_2.2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HW_2.2.py">
+    <leaf>
+      <file leaf-file-name="HW_2.4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HW_2.4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HW_2.3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HW_2.3.py">
+      <file leaf-file-name="HW_2.5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HW_2.5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="391">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HW_2.3_list.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HW_2.3_list.py">
+      <file leaf-file-name="HW_2.6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HW_2.6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="527">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,15 +67,18 @@
         <option value="$PROJECT_DIR$/HW_2.1.py" />
         <option value="F:/Python/practice/домашка/123.py.txt" />
         <option value="F:/Python/practice/домашка/H_W.2-1.py" />
-        <option value="$PROJECT_DIR$/HW_2.3.py" />
         <option value="$PROJECT_DIR$/HW_2.3_list.py" />
         <option value="$PROJECT_DIR$/HW_2.2.py" />
+        <option value="$PROJECT_DIR$/HW_2.3.py" />
+        <option value="$PROJECT_DIR$/HW_2.4.py" />
+        <option value="$PROJECT_DIR$/HW_2.5.py" />
+        <option value="$PROJECT_DIR$/HW_2.6.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="68" />
-    <option name="y" value="25" />
+    <option name="x" value="874" />
+    <option name="y" value="7" />
     <option name="width" value="1085" />
     <option name="height" value="1027" />
   </component>
@@ -88,6 +101,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -100,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HW_2.2">
+  <component name="RunManager" selected="Python.HW_2.4">
     <configuration name="HW_2.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,24 +130,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_2.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="HW_2.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Home" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_2.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +153,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="H_W.2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HW_2.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,17 +161,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="F:/Python/practice/домашка" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:/Python/practice/домашка/H_W.2-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_2.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="H_W.2-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HW_2.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Home" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,30 +179,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="F:/Python/practice/домашка" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:/Python/practice/домашка/H_W.2-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_2.5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="HW_2.6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Home" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_2.6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.HW_2.3" />
-      <item itemvalue="Python.H_W.2-1" />
-      <item itemvalue="Python.H_W.2-3" />
       <item itemvalue="Python.HW_2.3_list" />
       <item itemvalue="Python.HW_2.2" />
+      <item itemvalue="Python.HW_2.4" />
+      <item itemvalue="Python.HW_2.5" />
+      <item itemvalue="Python.HW_2.6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW_2.4" />
+        <item itemvalue="Python.HW_2.6" />
+        <item itemvalue="Python.HW_2.5" />
         <item itemvalue="Python.HW_2.2" />
         <item itemvalue="Python.HW_2.3_list" />
-        <item itemvalue="Python.H_W.2-3" />
-        <item itemvalue="Python.HW_2.3" />
-        <item itemvalue="Python.H_W.2-1" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +254,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31699347" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31699347" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32897604" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -270,13 +286,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Python/practice/домашка/H_W.2-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/Python/practice/домашка/H_W.2-2.py" />
     <entry file="file://$PROJECT_DIR$/HW_2.3_list.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -385,9 +395,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Python/practice/nested_loops.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://F:/Python/practice/nested_loops.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -395,34 +403,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Python/practice/домашка/123.py.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/Python/practice/домашка/123.py.txt" />
+    <entry file="file://F:/Python/practice/домашка/H_W.2-1.py" />
+    <entry file="file://F:/Python/practice/домашка/H_W.2-3.py" />
+    <entry file="file://F:/Python/practice/домашка/H_W.2-2.py" />
     <entry file="file://$PROJECT_DIR$/HW_2.3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Python/practice/домашка/H_W.2-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Python/practice/домашка/H_W.2-3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://F:/Python/practice/домашка/H_W.2-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-196">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="85">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -435,8 +423,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HW_2.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW_2.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW_2.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW_2.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
         </state>
       </provider>
     </entry>
