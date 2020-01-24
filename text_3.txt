@@ -1,0 +1,12 @@
+Ivanov 215456.23
+Petrov 17987.34
+Sidorov 47908.45
+Maximov 11897.56
+Moskov 9076.67
+Rostov 56754.78
+Nikolaev 61234.89
+Kirkorov 19999.9
+Baskov 20000.01
+Lebedev 20001.12
+Mishkin 500.23
+Sidorov 34090.34
